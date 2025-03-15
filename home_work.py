@@ -23,5 +23,8 @@ area_sher(10,11)
 def info(shergazy):
     print(f"your name is {shergazy}")
 
+
+
+
 aty=input("name: ")
 info(aty)
