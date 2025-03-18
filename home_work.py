@@ -40,3 +40,8 @@ def main():
             print("tuura mes")
 
 main()
+
+
+def func(a,b,c):
+    pass
+func(1,2,3)
